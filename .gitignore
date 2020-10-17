@@ -1,2 +1,6 @@
 log/*
 data/*
+application.keystore
+server.log*
+startup-marker
+*.db
