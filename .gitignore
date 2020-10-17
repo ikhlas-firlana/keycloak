@@ -3,7 +3,6 @@ data/*
 application.keystore
 server.log
 server.log*
-tmp/startup-marker
 *.db
 standalone/log/*
 
